@@ -49,4 +49,5 @@ How to Use:
 3. Explore dashboards and interact with slicers to analyze workforce trends
 
 <img width="1269" height="712" alt="image" src="https://github.com/user-attachments/assets/12a40a84-059c-492e-bb08-9b1ea81b280e" />
+
 <img width="1262" height="711" alt="image" src="https://github.com/user-attachments/assets/7e665401-540c-4d7d-8c0c-14a6b2ba5d9e" />
